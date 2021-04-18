@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546924146192",
+    "project_id": "savemydoc-4ed28",
+    "storage_bucket": "savemydoc-4ed28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546924146192:android:78aaf3bafc8afcc25ca495",
+        "android_client_info": {
+          "package_name": "com.android.savemydoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546924146192-e56m47gijb19vrqqj8p4t750fumqlme4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgX-62b3mAR5inBtmcBNPLlPfstcdvdqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546924146192-e56m47gijb19vrqqj8p4t750fumqlme4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

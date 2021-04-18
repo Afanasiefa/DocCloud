@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Save My Doc</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="sign_in">sign in</string>
+    <string name="loading">Save My Doc</string>
+    <string name="sign_in_with_facebook">Sign In With Facebook</string>
+    <string name="don_t_have_an_account_yet_u_sign_up_u"><![CDATA[Don\'t have an account yet?<u>Sign up</u>]]></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_your_password">confirm your password</string>
+</resources>
